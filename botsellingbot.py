@@ -47,7 +47,7 @@ from telegram.constants import ParseMode
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 #  CONFIG
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-BOT_TOKEN         = os.environ.get("BOT_TOKEN", "8928084437:AAESofrBSw8yUuzwy-uRcgDtMouEO1UNiNA")
+BOT_TOKEN         = os.environ.get("BOT_TOKEN", "8928084437:AAERdJjOG_wRx4mHkH7Unvxo8_FmCy6OETk")
 ADMIN_IDS_RAW     = os.environ.get("ADMIN_ID", "7831629041")
 ADMIN_USERNAME    = os.environ.get("ADMIN_USERNAME", "@CODINGJAMES_X")
 
